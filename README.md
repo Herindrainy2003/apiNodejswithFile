@@ -2,14 +2,13 @@
 
 ### installation 
    
-    ```bash
-     
+   ```bash
       git clone https://github.com/Herindrainy2003/apiNodejswithFile.git
           cd apiNodejswithFile
               npm install 
-      ```
+ ```
 #### fichier  .env
-  ```bash
+ ```bash
      .env = 8000
       .MONGO_URL = votre lien mongo
 ```
